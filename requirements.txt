@@ -4,3 +4,4 @@ numpy
 scikit-learn
 Pillow
 streamlit-option-menu
+joblib
